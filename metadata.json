@@ -1,0 +1,6 @@
+{
+  "name": "Omnilink Shopping",
+  "description": "High-end, future-forward editorial mobile shopping application with immersive digital magazine exhibitions, spatial product gallery, and AI Personal Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
